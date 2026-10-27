@@ -1,0 +1,23 @@
+
+<resources>
+    <string name="app_name">Konspekt3</string>
+<string name="greeting">Cześć, %1$s! Oto Twój żart numer %2$d.</string>
+
+<string-array name="jokes_array">
+   <item>– Jakie spodnie nosi brukarz?
+              – Do kostek.</item>
+    <item>– Jaka jest ulubiona zabawa dzieci grabarza?
+              – W chowanego.</item>
+    <item>– Co mówi ksiądz po ślubie informatyka?
+              – Pobieranie zakończone.</item>
+    <item> coś </item>
+    <item> coś jeszcze</item>
+</string-array>
+
+<plurals name="joke_counter">
+    <item quantity="one">Dostępny jest %d żart</item>
+    <item quantity="few">Dostępne są %d żarty</item>
+    <item quantity="many">Dostępnych jest %d żartów</item>
+    <item quantity="other">Dostępnych jest %d żartów</item>
+</plurals>
+</resources>

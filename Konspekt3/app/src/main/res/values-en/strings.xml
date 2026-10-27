@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konspekt3</string>
+<string name="greeting">Hello, %1$s! Here is your joke number %2$d.</string>
+
+<string-array name="jokes_array">
+   <item>– What kind of trousers does a paver wear?
+              – Ankle-length ones.</item>
+    <item>– What is the gravedigger’s children’s favorite game?
+              – Hide-and-seek.</item>
+    <item>– What does a priest say after a computer scientist’s wedding?
+              – Download complete.</item>
+    <item> something</item>
+    <item> something else</item>
+</string-array>
+
+<plurals name="joke_counter">
+    <item quantity="one">%d joke available</item>
+    <item quantity="other">%d jokes available</item>
+</plurals>
+</resources>
